@@ -13,6 +13,12 @@ LeoColloSharp helps you consult the most commonly used collocates of nouns and v
 2. Then, click Start. 
 3. Input 'data' for a first try. LeoColloSharp will provides you the frequent collocates of 'data'. 
 
+## Acknoledgements
+The collocates were extracted from the ENCOW14 corpus (https://corporafromtheweb.org/encow14/). 
+Our sincere thanks to the developers of the ENCOW14 corpus.
+Users of LeoColloSharp are encouraged to cite their works (https://corporafromtheweb.org/research-with-cow/).
+
+
 ## Contact
 LeoColloSharp is designed and developed by Leo Lei Lei with C#.
 
